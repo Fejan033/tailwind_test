@@ -4,7 +4,7 @@ import Footer from "./Components/Footer";
 
 function App() {
   return (
-    <div className="bg-amber-100">
+    <div className="bg-amber-50 min-h-screen px-6 py-3 flex-col gap-16">
       <Header />
       <Footer />
       <Body />
